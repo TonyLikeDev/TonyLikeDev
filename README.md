@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **tonyhoangnguyen.work@gmail.com**
 
-- 📄 Know about my experiences [here](https://dangcongkhai.github.io/my_website/)
+- 📄 Know about my experiences [here](https://tonylikedev.github.io/TonyPortfolio/)
 
 - ⚡ Fun fact:  **I'm passionate about AI, Software Engineering, and different technology paths. I'm quite dumb at exercise and lots of other stuffs but I'm trying to be better 🤗!**
 
