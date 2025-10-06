@@ -15,11 +15,6 @@
 
 - ⚡ Fun fact:  **I'm passionate about AI, Software Engineering, and different technology paths. I'm quite dumb at exercise and lots of other stuffs but I'm trying to be better 🤗!**
 
-<h3 align="left">Connect with me:</h3>
-\* <p align="left">
-<a href="https://kaggle.com/dangcongkhai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dang cong khai" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/dangcongkhai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dangcongkhai" height="30" width="40" /></a>
-</p> *\
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
