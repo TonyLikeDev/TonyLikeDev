@@ -7,17 +7,15 @@
 
 - 🔭 I’m currently competing in [Wids Datathon](https://www.kaggle.com/competitions/widsdatathon2025) [Update: My team(VNUK_DataTeam) landed on top 19 in this competition!]
 
-- 🌱 I’m currently learning **Full-stack Web Development** and working on **Finance Project using RAG**
+- 🌱 I’m currently learning **Full-stack Development**
 
-- 👨‍💻 All of my projects are available at [here](https://dangcongkhai.github.io/my_website/)
+- 🎯 My goal is **to build applications that bring value to the community!**
 
-- 🎯 My goal is **to build applications with AI that bring value to society!**
-
-- 📫 How to reach me **dangcongkhai2k5@gmail.com**
+- 📫 How to reach me **tonyhoangnguyen.work@gmail.com**
 
 - 📄 Know about my experiences [here](https://dangcongkhai.github.io/my_website/)
 
-- ⚡ Fun fact:  **I'm passionate about Data Science, AI, Software Engineering, and different technology paths. Besides, I love exercising to maintain good physical and mental health ⚽️!**
+- ⚡ Fun fact:  **I'm passionate about AI, Software Engineering, and different technology paths. Besides, I love exercising to maintain good physical and mental health ⚽️!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
