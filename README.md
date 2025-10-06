@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Khai!</h1>
-<h3 align="center">I'm majoring in Data Science with a great passion for learning new things every day and applying them to solve real-world problems !</h3>
+<h1 align="center">Hi 👋, I'm Tony!</h1>
+<h3 align="center">I'm majoring in Computer Science and Engineering with a great passion for learning new things every day and base on that to create thing that is the best for the community!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dangcongkhai&label=Profile%20views&color=0e75b6&style=flat" alt="dangcongkhai" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tonylikedev&label=Profile%20views&color=0e75b6&style=flat" alt="tonylikedev" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dangcongkhai" alt="dangcongkhai" /></a> </p> -->
-
-- 🔭 I’m currently competing in [Wids Datathon](https://www.kaggle.com/competitions/widsdatathon2025) [Update: My team(VNUK_DataTeam) landed on top 19 in this competition!]
 
 - 🌱 I’m currently learning **Full-stack Development**
 
@@ -15,7 +13,7 @@
 
 - 📄 Know about my experiences [here](https://dangcongkhai.github.io/my_website/)
 
-- ⚡ Fun fact:  **I'm passionate about AI, Software Engineering, and different technology paths. Besides, I love exercising to maintain good physical and mental health ⚽️!**
+- ⚡ Fun fact:  **I'm passionate about AI, Software Engineering, and different technology paths. I'm quite dumb at exercise and lots of other stuffs but I'm trying to be better 🤗!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
