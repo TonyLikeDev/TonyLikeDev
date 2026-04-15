@@ -58,11 +58,6 @@
 
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonylikedev&layout=compact&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=tonylikedev&show_icons=true&theme=radical" height="180"/>
-</p>
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=tonylikedev&theme=radical" height="180"/>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tonylikedev&show_icons=true&locale=en&layout=compact" alt="tonylikedev" /></p> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tonylikedev&show_icons=true&locale=en" alt="tonylikedev" /></p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tonylikedev&" alt="tonylikedev" /></p> 3 of these are broken in my github md
