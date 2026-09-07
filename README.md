@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full-stack Development**
 
-- 🎯 My goal is **to build applications that bring value to the community!**
+- 🎯 My goal is **to build applications that bring in value!**
 
 - 📫 How to reach me **tonyhoangnguyen.work@gmail.com**
 
